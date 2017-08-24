@@ -1,0 +1,28 @@
+{
+  "name": "reverse-game",
+  "version": "1.0.0",
+  "description": "JS version of Reverse by Peter Sessions from Basic Computer Games, David Ahl Ed. 1798",
+  "main": "reverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aonghusonia/reverse-game.git"
+  },
+  "keywords": [
+    "reverse",
+    "game",
+    "basic"
+  ],
+  "author": "Aonghus O Nia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aonghusonia/reverse-game/issues"
+  },
+  "homepage": "https://github.com/aonghusonia/reverse-game#readme",
+  "dependencies": {
+    "lodash.shuffle": "^4.2.0",
+    "readline-sync": "^1.4.7"
+  }
+}
