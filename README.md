@@ -1,22 +1,19 @@
+# Reverse
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Javascript version of Reverse by Peter Sessions from:
+
+[Basic Computer Games](http://www.atariarchives.org/basicgames)
+
+Edited by David H. Ahl
+Workman Publishing New York 1978
+
+see original Basic version at:
+
+http://www.atariarchives.org/basicgames/showpage.php?page=135
+
+inspired by Paul Bissex's [blogpost](http://news.e-scribe.com/193)
 
 
-Welcome to your Node.js project on Cloud9 IDE!
+install: `npm install`
 
-This chat example showcases how to use `socket.io` with a static `express` server.
-
-## Running the server
-
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
-
-2) Alternatively you can launch the app from the Terminal:
-
-    $ node server.js
-
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+run: `node reverse`
