@@ -17,3 +17,26 @@ inspired by Paul Bissex's [blogpost](http://news.e-scribe.com/193)
 install: `npm install`
 
 run: `node reverse`
+```
+8 6 4 1 2 5 3 9 7
+Reverse how many? 7
+3 5 2 1 4 6 8 9 7
+Reverse how many? 4
+1 2 5 3 4 6 8 9 7
+Reverse how many? 9
+7 9 8 6 4 3 5 2 1
+Reverse how many? 3
+8 9 7 6 4 3 5 2 1
+Reverse how many? 2
+9 8 7 6 4 3 5 2 1
+Reverse how many? 7
+5 3 4 6 7 8 9 2 1
+Reverse how many? 3
+4 3 5 6 7 8 9 2 1
+Reverse how many? 2
+3 4 5 6 7 8 9 2 1
+Reverse how many? 7
+9 8 7 6 5 4 3 2 1
+Reverse how many? 9
+Done! That took you 10 steps!
+```
