@@ -23,9 +23,5 @@
   "bugs": {
     "url": "https://github.com/aonghusonia/reverse-game/issues"
   },
-  "homepage": "https://github.com/aonghusonia/reverse-game#readme",
-  "dependencies": {
-    "lodash.shuffle": "^4.2.0",
-    "readline-sync": "^1.4.7"
-  }
+  "homepage": "https://github.com/aonghusonia/reverse-game#readme"
 }
