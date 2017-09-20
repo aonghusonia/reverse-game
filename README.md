@@ -13,6 +13,9 @@ http://www.atariarchives.org/basicgames/showpage.php?page=135
 
 inspired by Paul Bissex's [blogpost](http://news.e-scribe.com/193)
 
+play [online](https://aonghusonia.github.io/reverse-game/)
+
+or with node:
 
 install: `npm install`
 
@@ -34,7 +37,6 @@ Reverse how many? 7
 Reverse how many? 3
 4 3 5 6 7 8 9 2 1
 Reverse how many? 2
-3 4 5 6 7 8 9 2 1
 Reverse how many? 7
 9 8 7 6 5 4 3 2 1
 Reverse how many? 9
